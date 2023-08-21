@@ -13,3 +13,5 @@
 * [1-print_square.js](1-print_square.js) - Fixing Implementation of printing a square using the pound sign (#) in JavaScript ~ [source](https://github.com/alx-tools/0x00-Fix_My_Code_Challenge/blob/master/1-print_square.js)
 
 * [2-sort.rb](2-sort.rb) - Fixing Implementation of a sorting algorithm in Ruby ~ [source](https://github.com/alx-tools/0x00-Fix_My_Code_Challenge/blob/master/2-sort.rb)
+
+* [3-user.py](3-user.py) - Fixing Implementation of a User class in Python ~ [source](https://github.com/alx-tools/0x00-Fix_My_Code_Challenge/blob/master/3-user.py)
